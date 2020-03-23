@@ -1,0 +1,33 @@
+#Min{
+	max-width: 400px;
+}
+
+a:link{
+	color:red;
+}
+
+a:visited{
+	color:black;
+}
+
+a:hover{
+	color:yellow;
+}
+
+a:active{
+	color:blue;
+}
+
+.para:hover{
+	color:blue;
+}
+
+.gakuhi::before{
+	content:"Gakuhi ";
+}
+.gakuhi::after{
+	content:" Yen";
+}
+.gakuhi:hover{
+	color:red;
+}
