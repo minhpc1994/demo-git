@@ -1,1 +1,1 @@
-Test conflict local
+Conflict from Master
